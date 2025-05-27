@@ -1,3 +1,10 @@
+# 👋 Hi, I’m Debasish Bhattacharjee
+
+🚀 Director of Engineering | DevSecOps | Cloud | Mobile | QA Leadership  
+📍 Ex-Oracle, Macy's, SAP | Driving Scalable Tech Solutions  
+🔗 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/debasishtech/)
+
 # TripIt & SAP Concur Integration Leadership
 
 This repository highlights my leadership role in the integration of TripIt with SAP Concur, focusing on end-to-end readiness across mobile, web, and desktop.
